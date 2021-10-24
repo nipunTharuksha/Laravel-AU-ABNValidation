@@ -1,0 +1,11 @@
+{
+    "name": "nipun/abnvalidation",
+    "description": "This will validate AUS ABN as described at https://abr.business.gov.au/Help/AbnFormat",
+    "authors": [
+        {
+            "name": "nipunTharuksha",
+            "email": "nipunth7@gmail.com"
+        }
+    ],
+    "require": {}
+}
